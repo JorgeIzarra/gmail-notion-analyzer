@@ -165,6 +165,8 @@ Si encuentras algún problema o tienes preguntas:
 
 ¿Preguntas sobre la implementación? ¿Interesado en colaborar?
 
-- GitHub: [@tuusername](https://github.com/tuusername)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@JorgeIzarra](https://github.com/JorgeIzarra)
+- LinkedIn: [Jorge Izarra](https://linkedin.com/in/jorge-izarra)
+- Email: jorge.izarra.dev@gmail.com
+
+> **Nota**: Este proyecto demuestra implementación práctica de MCP (Model Context Protocol) para automatización empresarial real, no es solo un ejemplo académico.
