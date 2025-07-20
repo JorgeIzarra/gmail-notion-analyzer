@@ -1,0 +1,37 @@
+{
+  "name": "gmail-notion-analyzer",
+  "version": "1.0.0",
+  "description": "Analizador inteligente que clasifica correos de Gmail y los organiza en Notion",
+  "main": "analyzer.js",
+  "scripts": {
+    "start": "node analyzer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeIzarra/gmail-notion-analyzer.git"
+  },
+  "keywords": [
+    "gmail",
+    "notion",
+    "email",
+    "automation",
+    "productivity",
+    "analyzer",
+    "classification"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorgeIzarra/gmail-notion-analyzer/issues"
+  },
+  "homepage": "https://github.com/JorgeIzarra/gmail-notion-analyzer#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "dotenv": "^16.3.1",
+    "googleapis": "^126.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
