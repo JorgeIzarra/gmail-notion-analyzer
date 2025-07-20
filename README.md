@@ -160,3 +160,11 @@ Si encuentras algún problema o tienes preguntas:
 - Gmail API de Google para el acceso a correos
 - Notion API para la integración con bases de datos
 - Comunidad de desarrolladores por feedback y contribuciones
+
+## Contacto
+
+¿Preguntas sobre la implementación? ¿Interesado en colaborar?
+
+- GitHub: [@tuusername](https://github.com/tuusername)
+- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
+- Email: tu.email@ejemplo.com
